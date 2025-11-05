@@ -1,4 +1,9 @@
 # CIS 5660 HW04 Procedural Buildings
+
+|![](img/fullBuilding.png)|
+|:--:|
+
+
 In this project I'll use Houdini to try and procedurally generate faerie houses! Here are some references I've been inspired by:
 
 <table>
@@ -32,9 +37,22 @@ In this project I'll use Houdini to try and procedurally generate faerie houses!
   </tr>
 </table>
 
-Also here is a list of some of the elements in these references that I want to capture in my stylized procedural buildings:
-* Compact/Rickety feel. Even if there isn't a clear reference for size they should feel small in some way maybe even a bit unstable
-* Stone/cobble material - also shingled roofs
-* Overgrown by nature or more natural elements. Maybe try and generate/place assets like flowers, mushrooms, moss, or insect parts
-* Homey - the buildings should feel like homes rather than just buildings in some way
-* Triangular or rounded roofs/construction
+These images are what inspired most of the assets I created in Houdini to place around my house. For base architectural assets I created sytylized doors, windows, and balconies.
+
+|![](img/door.png)|![](img/window.png)|![](img/balcony.png)|
+|:--:|:--:|:--:|
+
+
+And to better fit the theme of the houses I also created flowers and mushrooms.
+
+|![](img/flower.png)|![](img/mushroom.png)|
+|:--:|:--:|
+
+I also added pillars and borders to each floor of the house, supports underneath floors if they went past the edge of their lower floor by too much, and a roof for the top of the house.
+
+|![](img/supports.png)|![](img/fullBuilding.png)|
+|:--:|:--:|
+
+Here's a demo video of the tool in action:
+
+<video src="img/demo.mp4" width="800" muted playsinline></video>
