@@ -53,6 +53,6 @@ I also added pillars and borders to each floor of the house, supports underneath
 |![](img/supports.png)|![](img/fullBuilding.png)|
 |:--:|:--:|
 
-Here's a demo video of the tool in action:
+Here's a demo video of the tool in action: [demo.mp4](https://github.com/mhedlund7/hw04-buildings/blob/main/img/demo.mp4)
 
 <video src="img/demo.mp4" width="800" muted playsinline></video>
