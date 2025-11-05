@@ -1,6 +1,6 @@
 # CIS 5660 HW04 Procedural Buildings
 
-|![](img/fullBuilding.png)|
+|![](img/fullBuilding2.png)|
 |:--:|
 
 
